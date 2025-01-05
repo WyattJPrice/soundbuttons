@@ -11,7 +11,7 @@
     color: white;
     padding-top: 5px;
     padding-bottom: 5px;
-    width: 50%;
+    width: 9em;
     margin-left: auto;
     margin-right: auto;
   }
@@ -26,7 +26,7 @@
     width: 80%;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 2em;
+    margin-bottom: 2em;                                
   }
   
   .option:hover {
